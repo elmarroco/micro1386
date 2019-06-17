@@ -1,0 +1,5 @@
+;186.INC 
+;Algunas constantes  
+PILA EQU 09800h  
+BASE EQU 07FFh  
+VIDEO EQU 0B800h
